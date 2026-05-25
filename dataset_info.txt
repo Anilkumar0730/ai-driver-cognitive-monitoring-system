@@ -1,0 +1,17 @@
+Planned datasets for AI Driver Monitoring System:
+
+1. NTHU Drowsy Driver Detection Dataset
+2. YawDD Dataset
+
+Features Planned:
+- Eye blink detection
+- Yawning analysis
+- Facial landmark tracking
+- Fatigue prediction
+- Real-time alert system
+
+Future Improvements:
+- CNN-LSTM deep learning integration
+- Personalized driver fatigue prediction
+- Cloud deployment
+- Real-time analytics dashboard
