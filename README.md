@@ -60,3 +60,15 @@ This project can be extended into a multimodal driver cognitive monitoring platf
 ## Status
 
 Initial development phase with future deep learning integration planned.
+---
+
+## Project Demo Screenshots
+
+### Normal Monitoring
+![Demo1](screenshots/demo1.png)
+
+### Drowsiness / Sleepy State Detection
+![Demo2](screenshots/demo2.png)
+
+### Face Tracking and Monitoring
+![Demo3](screenshots/demo3.png)
